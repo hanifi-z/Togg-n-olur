@@ -1,0 +1,12 @@
+<mod id="1004" name="Volkswagen Passat Highline 2018" type="Vehicle" createdby="Polat65" photo="_photo.jpg" domain="https://www.tsumods.com" share="download/Vehicles/0000-Shared" url="download/Vehicles/1004-VwPassat">
+<item type="catalog" file="catalog_info.json"/>
+<item type="hash" file="catalog_info.hash"/>
+<item type="bundle" file="dlc_vwpassat_assets_all.bundle"/>
+<item type="bundle" file="dlc_vwpassat_unitybuiltinshaders.bundle"/>
+<item type="shared" file="dlc_vehicles_shared_assets_all.bundle"/>
+<item type="shared" file="dlc_unitybuiltinshaders.bundle"/>
+<versions>
+<version modVersion="1.0.0" sharedVersion="1.0.1" minAndroidVersion="1.2.1" minIOSVersion="1.1.8"/>
+<version modVersion="1.0.1" sharedVersion="1.0.2" minAndroidVersion="1.2.4" minIOSVersion="1.2.0"/>
+</versions>
+</mod>
