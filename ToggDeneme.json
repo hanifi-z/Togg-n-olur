@@ -1,8 +1,8 @@
-<mod id="3169" name="Togg C Sedan" type="Vehicle" createdby="hanifi_zrk" photo="_photo.jpg" domain="https://www.tsumods.com" share="download/Vehicles/0000-Shared" url="download/Vehicles/3169-ToggCsedan">
+<mod id="3169" name="Togg C Sedan" type="Vehicle" createdby="hanifi_zrk" photo="_photo.jpg" domain="https://www.tsumods.com" share="download/Vehicles/0000-Shared" url="download/Vehicles/3169-toggcsedan">
 <item type="catalog" file="catalog_info.json"/>
 <item type="hash" file="catalog_info.hash"/>
-<item type="bundle" file="dlc_toggcsedan_assets_all.bundle"/>
-<item type="bundle" file="dlc_toggcsedan_unitybuiltinshaders.bundle"/>
+<item type="bundle" file="dlc_toggsedan_assets_all.bundle"/>
+<item type="bundle" file="dlc_toggsedan_unitybuiltinshaders.bundle"/>
 <item type="shared" file="dlc_vehicles_shared_assets_all.bundle"/>
 <item type="shared" file="dlc_unitybuiltinshaders.bundle"/>
 <versions>
